@@ -1,0 +1,15 @@
+# PyANSYS Modern GUI - Requirements
+
+# Core Python (usually included)
+# tkinter - included with Python standard library
+
+# PyANSYS ecosystem
+ansys-mechanical-core>=0.10.0
+ansys-dpf-post>=0.5.0
+
+# Visualization
+pyvista>=0.40.0
+
+# Optional for advanced features
+matplotlib>=3.5.0
+numpy>=1.21.0
