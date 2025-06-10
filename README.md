@@ -8,12 +8,12 @@ This GUI  provides a user-friendly interface for working with ANSYS simulation f
 
 ## Features
 
-### 🔧 Mechanical Viewer
+###  Mechanical Viewer
 - **MECHDAT File Support**: Load and view ANSYS Mechanical database files
 - **Interactive 3D Visualization**: Direct integration with PyANSYS for 3D model viewing
 - **File Management**: Easy file selection and management interface
 
-### 📊 Results Viewer
+###  Results Viewer
 - **RST File Analysis**: Comprehensive result file (.rst) visualization
 - **Result Types**: 
   - Von Mises Stress 
@@ -21,7 +21,7 @@ This GUI  provides a user-friendly interface for working with ANSYS simulation f
 - **3D Interactive Plotting**: Real-time 3D visualization using PyVista
 - **Multiple Visualization Methods**: Fallback options for different system configurations
 
-### 🎨 User Interface
+###  User Interface
 - **Modern GUI**: Clean, intuitive interface built with tkinter
 - **Tabbed Interface**: Separate viewers for mechanical and results analysis
 - **Theme Management**: Professional styling and color schemes
