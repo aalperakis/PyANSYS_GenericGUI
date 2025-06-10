@@ -16,8 +16,8 @@ This GUI  provides a user-friendly interface for working with ANSYS simulation f
 ### 📊 Results Viewer
 - **RST File Analysis**: Comprehensive result file (.rst) visualization
 - **Result Types**: 
-  - Von Mises Stress visualization
-  - Total Deformation analysis
+  - Von Mises Stress 
+  - Total Deformation 
 - **3D Interactive Plotting**: Real-time 3D visualization using PyVista
 - **Multiple Visualization Methods**: Fallback options for different system configurations
 
