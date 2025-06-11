@@ -11,6 +11,7 @@ Waits for the user to press Enter to exit.
 Attempts to delete the extracted temporary folder (*_Mech_Files) created during file loading.
 If any error occurs, it prints the error and exits gracefully.
 A.Alper Akis
+Ref: https://embedding.examples.mechanical.docs.pyansys.com/examples/00_tips/tips_01.html#sphx-glr-examples-00-tips-tips-01-py
 """
 
 import sys
